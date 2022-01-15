@@ -68,3 +68,9 @@ h1{
 .heading-exp{
     padding-left: 20px;
 }
+
+.exp-area{
+    background-image:url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: -1% 55%;
+}
