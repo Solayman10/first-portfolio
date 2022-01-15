@@ -20,6 +20,7 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
     
 }
 
@@ -40,4 +41,11 @@ h1{
     border-radius: 5px;
     color: white;
     font-weight: bold;
+}
+
+.dream{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right -2% bottom 55%;
 }
