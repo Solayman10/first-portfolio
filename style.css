@@ -48,4 +48,10 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right -2% bottom 55%;
+    padding-bottom: 150px;
+}
+
+.experience-sec{
+    display: flex;
+    padding-bottom: 120px;
 }
