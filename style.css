@@ -54,6 +54,7 @@ h1{
 .experience-sec{
     display: flex;
     padding-bottom: 120px;
+    
 }
 
 .exp-box{
@@ -63,6 +64,7 @@ h1{
     margin-right: 5%;
     border-radius: 10px;
     padding: 20px;
+   
 }
 
 .heading-exp{
@@ -72,5 +74,17 @@ h1{
 .exp-area{
     background-image:url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: -1% 55%;
+    background-position: 0% 55%;
+}
+
+#web-exp-box1{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1 ;
+}
+
+#web-exp-box2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1 ;
 }
